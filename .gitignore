@@ -1,2 +1,10 @@
 *target/
 target/classes/org/lipesc/computervision/JavaCV.class
+src/main/resources/1faces.jpg
+src/main/resources/2faces
+src/main/resources/facehidden.jpg
+res10_300x300_ssd_iter_140000.caffemodel
+.gitignore
+.vscode/settings.json
+.gitignore
+deploy.prototxt
